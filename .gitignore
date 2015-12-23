@@ -1,0 +1,10 @@
+diamond-client/.classpath
+diamond-client/.project
+diamond-sdk/.classpath
+diamond-sdk/.project
+diamond-server/.classpath
+diamond-server/.project
+diamond-utils/.classpath
+diamond-utils/.project
+.DS_Store
+target/
